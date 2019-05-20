@@ -85,3 +85,5 @@
 - [How to connect UART device to your Raspberry Pi working under Windows IOT Core](http://microelk.azurewebsites.net/Raspberry_UART/Raspberry_UART)
 - [How to connect I2C 16-bit Port Expander to your Raspberry Pi working under Windows IOT Core](http://microelk.azurewebsites.net/MCP23017/MCP23017)
 
+## Embedded systems Ebooks
+- [Embedded Systems - Wikibooks](https://en.wikibooks.org/wiki/Embedded_Systems)
